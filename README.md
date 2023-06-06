@@ -1,6 +1,6 @@
 # LQCD
 This repository includes my Python code for the heat bath algorithm in the theory of Lattice Quantum Chromodynamics. 
-For a theoretical summary of the contents within these files, you may view the pdf included on the LQCD research section of my website, alfredricker.com.
+For a theoretical summary of the contents within these files, you may view the pdf included on the LQCD research section of my website, **alfredricker.com**.
 
 I will keep my summary of each file brief because the code is commented and you may always reach out to me with any questions at alfred.ricker7@gmail.com.
 **su3.py** contains all relevant functions to run the heat bath or Metropolis algorithm for an SU(3) lattice (likewise for su2.py). Note that several of these functions are not used in my code, such as reunitarize, calcUi, and calcUt. 
