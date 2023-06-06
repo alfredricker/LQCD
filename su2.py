@@ -1,6 +1,7 @@
 import math
 import numpy
 np = numpy
+#NOTE THAT I DID NOT WRITE ANY OF THIS CODE. THIS WAS WRITTEN BY OTHER RESEARCHERS AT FORDHAM UNIVERSITY AND USED BY ME IN ORDER TO WRITE THE SU(2) HEAT BATH.
 
 su2eye = np.array([1.,0.,0.,0.])
 eye4 = np.eye(4)
